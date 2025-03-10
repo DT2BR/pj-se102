@@ -1,11 +1,5 @@
 # pj-se102
-tétt
-
-
-
-
-
-
+TUI KHONG BIET LAM GI CA
 
 
 
